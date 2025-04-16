@@ -1,0 +1,23 @@
+# Environment files
+env.fish
+env.list
+.env
+
+# Dependency files
+go.sum
+
+# Build and output directories
+/build/
+/bin/
+
+# IDE and editor files
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
